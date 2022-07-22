@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Diagram of a radar dish, projecting two identically-shaped beam patterns
     slightly offset from one another around a target axis.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-ll-001s07.gif
