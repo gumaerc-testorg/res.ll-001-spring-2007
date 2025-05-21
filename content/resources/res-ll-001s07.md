@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-ll-001-introduction-to-radar-systems-spring-2007/d96abb2c310dc5cb5d54e1a4f95bfd85_res-ll-001s07.gif
+file: /courses/res-ll-001-introduction-to-radar-systems-spring-2007/d96abb2c310dc5cb5d54e1a4f95bfd85_res-ll-001s07.gif
 file_size: 12528
 file_type: image/gif
 image_metadata:
